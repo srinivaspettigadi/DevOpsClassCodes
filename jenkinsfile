@@ -1,0 +1,9 @@
+node {
+    stage('second file')
+    {
+       echo "second pipeline"
+    }
+    stage('metric test')
+    {
+        echo "testing metric"
+    }
