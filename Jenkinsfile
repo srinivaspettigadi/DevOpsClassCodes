@@ -7,7 +7,7 @@ node {
     }
     stage('code analysis')
     {
-        echo "code analysis"
+        echo "code analysisss"
     }
     stage('build')
     {
